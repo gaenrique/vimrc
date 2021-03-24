@@ -41,9 +41,6 @@ map <C-l> <C-w>l
 map <C-Left> :tabp<cr>
 map <C-Right> :tabn<cr> 
 
-" Leader key
-let mapleader = " "
-
 " Security
 set modelines=0
 
